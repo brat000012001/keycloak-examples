@@ -1,5 +1,5 @@
 #
-# A script to deploy a keycloak stack consisting of a cluster of two keycloak nodes, a shared postgreSQL database
+# A script to deploy keycloak service stack using the docker swarm.
 #
 # To deploy the stack, run:
 # $ sudo docker stack deploy -c keycloak-stack.yml keycloak
